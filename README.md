@@ -15,10 +15,63 @@ View the deployed Streamlit application here:
 
 https://elisa0228-final-individual-app-project-final-app-88zc7a.streamlit.app
 
+
 ### Dashboard Preview
+**Overview and Crash Location Map**
 
+The main dashboard page provides an overview of traffic fatalities across Chicago, including interactive filters, summary statistics, and a geographic visualisation of fatal crash locations. Users can dynamically explore fatality patterns by year and month.
 
+<p align="center">
+  <img src="dashboard preview/dashboard overview.png" width="1200">
+</p>
 
+<p align="center">
+  <em>Figure 1: Interactive dashboard overview displaying crash locations, filtering controls, and key fatality statistics.</em>
+</p>
+
+---
+
+**Interactive Fatality Analysis**
+
+A range of interactive visualisations were developed to explore traffic fatality trends over time. Users can investigate yearly patterns, monthly distributions, and victim categories through dynamic charts and graphical summaries.
+
+<p align="center">
+  <img src="dashboard preview/dashboard charts.png" width="1200">
+</p>
+
+<p align="center">
+  <em>Figure 2: Interactive visualisations showing fatality trends, victim distributions, and temporal patterns across Chicago.</em>
+</p>
+
+---
+
+**Spatial and Victim Analysis**
+
+This section combines spatial and demographic analysis to explore how traffic fatalities vary across Chicago. Users can investigate crash locations geographically while also examining trends across different victim categories.
+
+<p align="center">
+  <img src="dashboard preview/dashboard charts .png" width="1200">
+</p>
+
+<p align="center">
+  <em>Figure 3: Spatial distribution of fatal crash locations alongside victim-type analysis across Chicago.</em>
+</p>
+
+---
+
+**Key Insights and Recommendations**
+
+The dashboard concludes with a summary page that consolidates major findings from the analysis, including victim demographics, temporal trends, spatial patterns, and recommendations that may support future road safety initiatives and decision-making.
+
+<p align="center">
+  <img src="dashboard preview/dashboard key recap.png" width="1200">
+</p>
+
+<p align="center">
+  <em>Figure 4: Key insights page summarising major findings, observed trends, and potential road safety recommendations.</em>
+</p>
+
+<br>
 
 
 ### Project Objectives
